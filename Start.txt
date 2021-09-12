@@ -1,0 +1,3 @@
+Nazwisko: Koral
+Imie: Krzysztof
+Wiek: 64
