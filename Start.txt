@@ -1,3 +1,4 @@
 Nazwisko: Koral
 Imie: Krzysztof
 Wiek: 64
+Praca: Nokia
