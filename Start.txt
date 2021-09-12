@@ -3,3 +3,4 @@ Imie: Krzysztof
 Wiek: 64
 Praca: Nokia
 Auto: Toyota
+Adres: N/A
